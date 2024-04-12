@@ -1,4 +1,4 @@
-# Leader-follower-method-for-Unmanned-Surface-Vessels-Formation
+# Leader-follower-method-for-Unmanned-Surface-Vessels-Formation 领航者-跟随者
 This program is based on the leader-follower model and replicates the unmanned boat formation control method designed in the referenced paper. It is well-commented for readability and allows for easy model modification for use in unmanned vehicle or drone formations.
 
 Refers to:
