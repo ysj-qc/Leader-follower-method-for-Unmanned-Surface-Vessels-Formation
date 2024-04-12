@@ -3,3 +3,6 @@ This program is based on the leader-follower model and replicates the unmanned b
 
 Refers to:
 https://www.researchgate.net/publication/290771273_Formation_control_for_ship_fleet_based_on_backstepping； 
+
+中文版论文：
+http://kzyjc.alljournals.cn/kzyjc/article/abstract/2010-1392
